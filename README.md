@@ -162,7 +162,7 @@ blog-website/
    python main.py
    ```
    
-   The app will be available at `http://127.0.0.1:5001` on your local machine (localhost only—not accessible from other devices or the internet).
+   The app will be available at `http://127.0.0.1:5001` 
 
 ### First Admin User
 The first registered user (ID 1) is the admin. Register first to gain access to create, edit, and delete posts.
